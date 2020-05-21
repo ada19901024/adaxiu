@@ -35,6 +35,12 @@ Page({
         title: '列表',
         entitle: 'List',
         page: '/page/biz/pages/list/index',
+      }
+      , {
+        icon: '/image/biz_list.png',
+        title: '对象查询',
+        entitle: 'List',
+        page: '/page/jqshjzapp/component/objectquery/objectquery',
       }, {
         icon: '/image/biz_tag.png',
         title: '标签',
